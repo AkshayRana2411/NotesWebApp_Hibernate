@@ -17,7 +17,7 @@
           <a href="all_notes.jsp" class="nav-link " aria-disabled="true">Show notes</a>
         </li>
       </ul>
-      
+  
     </div>
   </div>
 </nav>
